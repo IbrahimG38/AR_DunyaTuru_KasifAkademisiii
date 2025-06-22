@@ -1,4 +1,4 @@
-### ÖNEMLİ UYARI ! ! ! 
+# ÖNEMLİ UYARI ! ! ! 
 Readme.md, Installation.md, user_manual.md ve aşağıda belirtilen dosya yapısındaki gibi diğer klasör ve gerekli belgeler ilgili ana klasör (AR_DunyaTuru_KasifAkademisiii) içinde mevcuttur, istenilenin aksine eksik olan dosya & belge yoktur.
 
 � AR_DunyaTuru_KasifAkademisiii/
