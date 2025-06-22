@@ -49,7 +49,7 @@ Not: Bu projede Library/ klasörü depoya dahil edilmemiştir. Unity, projeyi a�
 ### Adım 1: Projeyi GitHub'dan İndirin
 Github reposunu bilgisayarınıza klonlayın:
 
-bash Kopyala Düzenle git clone https://github.com/IbrahimG38/AR_DunyaTuru_KasifAkademisi
+bash Kopyala Düzenle git clone https://github.com/IbrahimG38/AR_DunyaTuru_KasifAkademisiii
 
 ### Adım 2: Unity Projesini Açın
 Unity Hub'ı açın ve AR-Dunya-Turu klasörünü seçerek projeyi açın.
