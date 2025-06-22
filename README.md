@@ -11,7 +11,7 @@ Readme.md, Installation.md, user_manual.md, faq.md, src/ (Kaynak kodlar), docs/ 
 
 ## YOUTUBE PROJE ASANSÖR KONUŞMA VİDEOSU: https://youtube.com/shorts/9h6ozd-64eo?feature=shared
 
-## PROJE DOSYASI VE GEREKLİ TÜM BELGE VE DÖKÜMANLARIN DRİVE'DA TOPLANMIŞ HALİ: https://drive.google.com/file/d/17XMVPBZ3Bi6ulm3l-dAaOGfM326-gB1t/view?usp=sharing
+## PROJE DOSYASI VE GEREKLİ TÜM BELGE VE DÖKÜMANLARIN DRİVE'DA TOPLANMIŞ HALİ (repository'de de proje klasorü içinde mevcut hepsi): https://drive.google.com/file/d/17XMVPBZ3Bi6ulm3l-dAaOGfM326-gB1t/view?usp=sharing
 
 
 
