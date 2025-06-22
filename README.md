@@ -124,16 +124,19 @@ Modele tıklanarak bilgi ve etkileşim ekranları tetiklenir
 
 # Ekran Görüntüleri
 
-Karşılama Ekranı: Screenshots/1.jpg
+### Karşılama Ekranı: 
+AR_DunyaTuru_KasifAkademisiii/Screenshots/1.jpg
 
-Kamera Tanıma Anı ve 3D Model Görüntüleme: Screenshots/2.jpg
+### Kamera Tanıma Anı ve 3D Model Görüntüleme: 
+AR_DunyaTuru_KasifAkademisiii/Screenshots/2.jpg
 
-Bilgi Kartı Açıldığında: Screenshots/3.jpg
+### Bilgi Kartı Açıldığında: 
+AR_DunyaTuru_KasifAkademisiii/Screenshots3.jpg
 
-Soru ve Ödül Ekranı:
-Screenshots/4.jpg
-Screenshots/5.jpg
-Screenshots/6.jpg
+### Soru ve Ödül Ekranı:
+AR_DunyaTuru_KasifAkademisiii/Screenshots/4.jpg
+AR_DunyaTuru_KasifAkademisiii/Screenshots/5.jpg
+AR_DunyaTuru_KasifAkademisiii/Screenshots/6.jpg
 
 
 # Proje Dosyaları
@@ -163,7 +166,7 @@ Değişikliklerinizi yapın ve commit edin.
 
 Pull Request gönderin.
 
-🛠️ Sorun Giderme
+# Sorun Giderme
 Eğer AR modeli görünmüyorsa, marker’ın doğru şekilde algılandığından emin olun. Ayrıca, Unity ayarlarında AR Foundation’ın doğru şekilde yapılandırıldığından emin olun.
 
 Eğer uygulama çalıştırılmıyorsa, platform ayarlarının doğru yapıldığını kontrol edin (Android için Build Settings).
