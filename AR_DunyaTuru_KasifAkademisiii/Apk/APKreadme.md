@@ -1,0 +1,2 @@
+### APK nasıl yüklenir?
+APK dosyasını verdiğim linkten indirerek cihazınıza atın, bilinmeyen kaynaklara izin verin ve yükleyin, dosya boyut aşımından dolayı ana readme dosyasında verdiğim linkte apk mevcuttur
