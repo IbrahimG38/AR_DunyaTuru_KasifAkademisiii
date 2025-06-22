@@ -17,6 +17,8 @@ Readme.md, Installation.md, user_manual.md ve aşağıda belirtilen dosya yapıs
 
 ## YOUTUBE UYGULAMA KULLANIM VİDEOSU: https://youtube.com/shorts/sD53YUr976c?feature=shared
 
+## YOUTUBE PROJE ASANSÖR KONUŞMA VİDEOSU: https://youtube.com/shorts/9h6ozd-64eo?feature=shared
+
 
 
 # AR_DunyaTuru_KasifAkademisi
