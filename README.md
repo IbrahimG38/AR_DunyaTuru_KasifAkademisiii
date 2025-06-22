@@ -1,15 +1,7 @@
-# ÖNEMLİ UYARI ! ! ! 
-Readme.md, Installation.md, user_manual.md ve aşağıda belirtilen dosya yapısındaki gibi diğer klasör ve gerekli belgeler ilgili ana klasör (AR_DunyaTuru_KasifAkademisiii) içinde mevcuttur, istenilenin aksine eksik olan dosya & belge yoktur.
+# ÖNEMLİ BİLGİLENDİRME ! ! ! 
+Readme.md, Installation.md, user_manual.md, src/ (Kaynak kodlar), docs/ (Dokümantasyon dosyaları), screenshots/ (Ekran görüntüleri), ve demo_video (Demo video), gibi istenilen bütün belge & dosyalar yönergede belirtilen dosya yapısındaki gibi ilgili proje klasörü (AR_DunyaTuru_KasifAkademisiii) içinde mevcuttur, istenilenin aksine eksik olan dosya & belge yoktur. Aşağıda APK, Youtube proje uygulama kullanım videosu, asansör konuşması ve trello bağlantıları mevcuttur.
 
-� AR_DunyaTuru_KasifAkademisiii/
-├── � README.md (Detaylı proje açıklaması)
-├── � INSTALLATION.md (Kurulum rehberi)
-├── � USER_MANUAL.md (Kullanıcı kılavuzu)
-├── � src/ (Kaynak kodlar)
-├── � docs/ (Dokümantasyon dosyaları)
-├── � screenshots/ (Ekran görüntüleri)
-├── � apk/ (APK dosyası)
-└── � demo_video (Demo video)
+# ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 
 ## TRELLO: https://trello.com/b/u4b0p1XW/ar-dunya-turu-kasif-akademisi
 
