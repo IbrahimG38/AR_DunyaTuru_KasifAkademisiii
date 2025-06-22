@@ -1,5 +1,5 @@
 # ÖNEMLİ BİLGİLENDİRME ! ! ! 
-Readme.md, Installation.md, user_manual.md, src/ (Kaynak kodlar), docs/ (Dokümantasyon dosyaları), screenshots/ (Ekran görüntüleri), ve demo_video (Demo video), gibi istenilen bütün belge & dosyalar yönergede belirtilen dosya yapısındaki gibi ilgili proje klasörü (AR_DunyaTuru_KasifAkademisiii) içinde mevcuttur, istenilenin aksine eksik olan dosya & belge yoktur. Aşağıda APK, Youtube proje uygulama kullanım videosu, asansör konuşması ve trello bağlantıları mevcuttur.
+Readme.md, Installation.md, user_manual.md, faq.md, src/ (Kaynak kodlar), docs/ (Dokümantasyon dosyaları), screenshots/ (Ekran görüntüleri), ve demo_video (Demo video), gibi istenilen bütün belge & dosyalar yönergede belirtilen dosya yapısındaki gibi ilgili proje klasörü (AR_DunyaTuru_KasifAkademisiii) içinde mevcuttur, istenilenin aksine eksik olan dosya & belge yoktur. Aşağıda APK, Youtube proje uygulama kullanım videosu, asansör konuşması ve trello bağlantıları mevcuttur.
 
 # ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 
